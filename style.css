@@ -43,17 +43,20 @@
     color: #DD6031;
 }
 
+.bg-body{
+    background-image: url(./media/tm-bg-slide-3.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* header */
+
 hr{
     width: 100px;
     margin: auto;
     border: 1px solid #465C69;
 }
 
-.bg-body{
-    background-image: url(./media/tm-bg-slide-3.jpeg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-}
 
 .h_img{
     border: 3px solid #465C69;
@@ -61,6 +64,8 @@ hr{
     margin: 10px;
     margin-bottom: 20px;
 }
+
+/* card */
 
 .card_white{
     background-color: white;
@@ -86,13 +91,6 @@ hr{
     padding: 30px; 
     min-height: 300px;
 }
-
-.card_white_2{
-    background-color: white;
-    padding: 30px; 
-    min-height: 300px;
-}
-
 
 li>i{
     margin-right: 10px;
