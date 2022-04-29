@@ -1,3 +1,9 @@
+:root{
+    --myblue: #3366cc;
+}
+
+
+
 /* font */
 .f_garamond{
     font-family: 'EB Garamond', serif;
@@ -57,7 +63,24 @@ hr{
 }
 
 .card_white{
-    background-color: #D8DBE2;
-    
+    background-color: white;
+    padding: 30px; 
+    min-height: 300px;
+}
+
+.card_blue{
+    background-color: var(--myblue);
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+    min-height: 300px;
+}
+
+.card_blue .progress{
+    height: 10px;
+}
+
+.bar_label{
+    font-weight: ;
 }
 
