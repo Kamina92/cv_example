@@ -1,0 +1,58 @@
+/* font */
+.f_garamond{
+    font-family: 'EB Garamond', serif;
+}
+
+.f_lato{
+    font-family: 'Lato', sans-serif;
+}
+
+/* colori */
+
+.color_black{
+    color: black;
+}
+
+.color_white{
+    color: white;
+}
+
+.color_black_bean{
+    color: #3C0000;
+}
+
+.color_crimson{
+    color: #3C0000;
+}
+
+.color_gainsboro{
+    color: #D8DBE2;
+}
+
+.color_black_coral{
+   color: #465C69; 
+}
+
+.color_flame{
+    color: #DD6031;
+}
+
+hr{
+    width: 100px;
+    margin: auto;
+    border: 1px solid #465C69;
+}
+
+.bg-body{
+    background-image: url(./media/tm-bg-slide-3.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.h_img{
+    border: 3px solid #465C69;
+    border-radius: 50%;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
