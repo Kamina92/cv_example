@@ -68,6 +68,7 @@ hr{
     min-height: 300px;
 }
 
+
 .card_blue{
     background-color: var(--myblue);
     color: white;
@@ -92,3 +93,7 @@ hr{
     min-height: 300px;
 }
 
+
+li>i{
+    margin-right: 10px;
+}
