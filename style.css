@@ -80,7 +80,15 @@ hr{
     height: 10px;
 }
 
-.bar_label{
-    font-weight: ;
+.card_blue_2{
+    background-color: var(--myblue);
+    padding: 30px; 
+    min-height: 300px;
+}
+
+.card_white_2{
+    background-color: white;
+    padding: 30px; 
+    min-height: 300px;
 }
 
